@@ -1,6 +1,6 @@
 <?php
 
-namespace Robster858\test;
+namespace Robster858\Core;
 
 use pocketmine\event\Listener;
 use pocketmine\event\player\PlayerJoinEvent;
