@@ -10,10 +10,6 @@ use pocketmine\plugin\PluginBase;
 use pocketmine\utils\TextFormat;
 use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
-use pocketmine\event\entity\ProjectileHitEntityEvent;
-use pocketmine\network\mcpe\protocol\PlaySoundPacket;
-use pocketmine\event\entity\ProjectileHitEvent;
-use pocketmine\network\mcpe\protocol\LevelEventPacket;
 
 class main extends PluginBase implements Listener {
 
