@@ -1,5 +1,5 @@
-name: test
-main: Robster858\test\main
+name: Core
+main: Robster858\Core\main
 version: 0.0.1
 api: 3.0.0
 authors:
