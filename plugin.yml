@@ -5,6 +5,7 @@ api: 3.0.0
 authors:
   - "Robster858"
   - "ExZeEZ"
+  - "cedricieee"
 commands:
   day:
     description: "Set the time to day"
