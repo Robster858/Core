@@ -1,3 +1,3 @@
 # Core
-A simple core for a server
-- Many features coming soon!
+A simple core for your server!
+- Many features coming soon.
